@@ -1,0 +1,5 @@
+{{#user}}
+Name: Ayush
+Skills: HTML, CSS, Bootstrap,JS, React, MySQL, C++ and Github
+Email: ayushduggal24@gmail.com
+{{/user}}
